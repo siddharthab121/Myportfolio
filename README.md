@@ -1,2 +1,2 @@
-# Myportfolio
-My resume
+# AboutMe
+Info about me
